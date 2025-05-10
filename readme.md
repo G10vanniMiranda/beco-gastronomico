@@ -26,7 +26,7 @@ Destaques da Casa:
 
 Depoimentos / Avaliações Google:
 
-- Embed ou carrossel com avaliações reais
+- Embed ou carrossel com avaliações reaisEmbed ou carrossel com avaliações reais
 
 Localização + Horário de Funcionamento:
 
@@ -99,47 +99,30 @@ Objetivo: Mostrar onde fica o beco e incentivar a visita física.
 
 🔧 Escopo do Serviço
 
-- Desenvolvimento de páginas (quantidade e tipo: institucional, landing page, blog, etc.)
+- Desenvolvimento de páginas (quantidade e tipo: institucional, landing page, etc.)
 - Design responsivo (compatibilidade com mobile, tablet, desktop)
-- Integrações (por exemplo: com sistemas de pagamento, CRM, redes sociais)
+- Integrações (por exemplo: redes sociais, WhatsApp, etc.)
 - Otimização básica de SEO (meta tags, velocidade, etc.)
 
 ⏳ Prazos
 
-- Prazo de entrega por etapa ou total
-- Prazos para revisão e feedback do cliente
+- Prazo de entrega por 30 dias parcial e 60 dias o site completo
+- Prazos para revisão e feedback do cliente, 2 dias.
 
 🔁 Revisões
 
-- Número de rodadas de alteração inclusas (ex: até 2 revisões)
-- O que caracteriza uma revisão e o que é considerado extra
+- Número de rodadas de alteração inclusas.
+- O que caracteriza uma revisão.
 
 💼 Suporte Técnico
 
-- Duração do suporte gratuito após entrega (ex: 30 dias)
 - Tipos de suporte inclusos (ajustes técnicos, pequenos bugs)
-- Formato de atendimento (e-mail, WhatsApp, sistema de chamados)
+- Formato de atendimento ( WhatsApp, ouvidoria )
 
 📦 Hospedagem e Domínio
 
 - Se você fornece ou não a hospedagem
 - Se o cliente é responsável pelo domínio ou se está incluso no serviço
-
-🚫 Limitações de Responsabilidade
-
-- O que não está incluso (ex: criação de conteúdo, manutenção contínua, SEO avançado, marketing digital)
-- Garantias limitadas (ex: não nos responsabilizamos por quedas de servidor de terceiros, invasões caso o cliente não mantenha plugins atualizados etc.)
-
-💰 Pagamento
-
-- Forma (à vista, parcelado, via boleto/Pix/etc.)
-- Prazos de pagamento (ex: 50% início, 50% entrega)
-- Multa por atraso de pagamento
-
-📄 Propriedade do Código e Conteúdo
-
-- Quem é o dono do site e do código após a entrega (você pode manter os direitos do código-fonte base e liberar o uso do cliente)
-- Se o cliente quiser migrar para outra empresa, como isso será tratado
 
 🔐 Privacidade e Confidencialidade
 
